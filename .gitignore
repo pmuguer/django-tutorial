@@ -1,2 +1,4 @@
 env/
 workspace.code-workspace
+.vscode
+*.pyc
